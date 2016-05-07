@@ -39,7 +39,7 @@ Run the setup script
 
 Follow instructions....
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/frH9HaQTFL8/0.jpg)](http://www.youtube.com/watch?v=YfrH9HaQTFL8 "Installing Alexa Voice Service to Raspberry Pi")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/frH9HaQTFL8/0.jpg)](http://www.youtube.com/watch?v=frH9HaQTFL8 "Installing Alexa Voice Service to Raspberry Pi")
 
 Enjoy :)
 
